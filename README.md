@@ -5,7 +5,7 @@ I am IYF S12 learner - Developer Identity & GitHub Workflow
 **Week 0 - Gate Project**
 - **Live Profile:** https://tochomot385-hash.github.io/iyf-s12-week-00-tochomot385-hash/
 - **Week 0 Repo:** https://github.com/tochomot385-hash/iyf-s12-week-00-tochomot385-hash
-- **GitHub:** //tochomot385-hash.github.io
+- **GitHub:** https://tochomot385-hash.github.io
 - **Location:** Nairobi, Kenya
 
 **What I learned in Week 0**
